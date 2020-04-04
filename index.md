@@ -1,6 +1,3 @@
-# Welcome to my blog
-
-I'm glad you are here. I plan to talk about ...
-Just need some time ...
->
-> {% include_relative _posts/2020-04-04-title1.md %}
+---
+layout: default
+---
