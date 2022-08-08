@@ -20,6 +20,6 @@ google-analytics:
 exclude:
    - Gemfile # implies Gemfile* so matches Gemfile.lock
    - node_modules/ 
-   - vendor/ # matches vendor/*
-   - src
+   - vendor/bundle # matches vendor/*
+   - src/
    
